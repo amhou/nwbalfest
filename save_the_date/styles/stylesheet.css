@@ -1,0 +1,50 @@
+body {
+    align-items: center;
+    background-color:#E0E0E0;
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    width:50%;
+}
+
+.save_the_date_parent {
+    width: 100%;
+}
+
+.save_the_date_left {
+    border-right: 1px solid black;
+    box-sizing: border-box;
+    float: left;
+    text-align: right;
+    padding: 0 40px;
+    width: 50%;
+}
+
+.save_the_date_right {
+    border-left: 1px solid black;
+    box-sizing: border-box;
+    float: left;
+    padding: 0 40px;
+    width: 50%;
+}
+
+.save_the_date_bottom {
+    box-sizing: border-box;
+    text-align: center;
+    width: 100%;
+}
+
+h1 {
+    font-size: 300%;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+h2 {
+    font-size: 200%;
+    font-family: 'Josefin Sans', sans-serif;
+}
