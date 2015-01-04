@@ -1,0 +1,21 @@
+{
+  "locals": {
+    "url": "http://localhost:8080",
+    "name": "Northwest Balboa Festival",
+    "owner": "Northwest Balboa Festival",
+    "title": "Northwest Balboa Festival",
+    "description": "The newest event for the Northwest Balboa community"
+  },
+  "require": {
+    "moment": "moment",
+    "_": "underscore",
+    "typogr": "typogr"
+  },
+  "jade": {
+    "pretty": true
+  },
+  "markdown": {
+    "smartLists": true,
+    "smartypants": true
+  }
+}
