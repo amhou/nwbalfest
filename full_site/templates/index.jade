@@ -15,8 +15,6 @@ html(lang='en')
             // Header
             div#header
                 div.container
-                    // Logo
-
                     // Nav
                     nav#nav
                         ul
@@ -25,15 +23,15 @@ html(lang='en')
                             li
                                 a(href='#registration') Registration
                             li
-                                a(href='#') Schedule
+                                a(href='#schedule') Schedule
                             li
-                                a(href='#') Instructors
+                                a(href='#instructors') Instructors
                             li
-                                a(href='#') Music
+                                a(href='#music') Music
                             li
-                                a(href='#') About
+                                a(href='#about') About
                             li
-                                a(href='#') Contact Us
+                                a(href='#footer') Contact Us
 
             // Banner
             div#banner
@@ -42,7 +40,33 @@ html(lang='en')
                     span Seattle, WA
                     p May 1-3, 2015
 
-        // Section One
+        // Registration
         div.wrapper.style2#registration
             section.container
-                != page.html
+                include ./registration.jade
+
+        // Schedule
+        div.wrapper.style4#schedule
+            section.container
+                include ./schedule.jade
+
+        // Instructors
+        div.wrapper.style3#instructors
+            section.container
+                include ./instructors.jade
+
+        // Music
+        div.wrapper.style2#music
+            section.container
+                include ./music.jade
+
+        // About
+        div.wrapper.style5#about
+            section#team.container
+                include ./about.jade
+
+        // Contact Us
+        div#footer
+            section.container
+                include ./contact_us.jade
+
