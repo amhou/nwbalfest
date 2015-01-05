@@ -6,11 +6,6 @@
     "title": "Northwest Balboa Festival",
     "description": "The newest event for the Northwest Balboa community"
   },
-  "require": {
-    "moment": "moment",
-    "_": "underscore",
-    "typogr": "typogr"
-  },
   "jade": {
     "pretty": true
   },
