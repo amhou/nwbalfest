@@ -563,7 +563,6 @@
     #header {
         color: white;
         height: 4em;
-        background-color: rgba(0, 0, 0, 0.7);
     }
 
         #header .container {
@@ -599,9 +598,13 @@
         }
 
     #nav {
-        position: absolute;
+        position: fixed;
+        background-color: rgba(0, 0, 0, 0.8);
         top: 0;
-        right: 0;
+        left: 0;
+        text-align: center;
+        width: 100%;
+        z-index: 1;
     }
 
         #nav > ul {
