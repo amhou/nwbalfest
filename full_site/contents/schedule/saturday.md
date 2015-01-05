@@ -6,7 +6,8 @@
   * Intermediate Classes
 * __3pm-4pm__
   * _Century Ballroom_
-  * Guided Practice - Open to the public, $2 cover
+  * Guided Practice
+  * _Open to the public, $2 cover_
 * __4pm-5pm__
   * _Century Ballroom_
   * Master Classes

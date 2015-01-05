@@ -13,6 +13,6 @@
   * _Free, $5 suggested donation_
 * __930pm-1230am__
   * _Century Ballroom_
-  * DJ Music with Travis Whetman!
+  * DJ Music with Some Awesome DJ!
   * <font color='red'>Not Included with Weekend Pass</font>
   * _<font color='red'>$8 Cover</font>_
