@@ -2,15 +2,15 @@
 
 * __1pm-3pm__
   * _Century Ballroom_
-  * Beginner Intensive Classes
-  * Intermediate Classes
+  * Learner Classes
+  * Improver Classes
 * __3pm-4pm__
   * _Century Ballroom_
   * Guided Practice
   * _$2 cover for non-pass holders_
 * __4pm-5pm__
   * _Century Ballroom_
-  * Master Classes
+  * Perfecter Classes
 * __9pm-130am__
   * _Location TBD_
   * Live Music with Some Band Here!

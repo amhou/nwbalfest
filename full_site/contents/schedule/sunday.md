@@ -2,11 +2,11 @@
 
 * __10am-12pm__
   * _Century Ballroom_
-  * Beginner Intensive Classes
-  * Intermediate Classes
+  * Learner Classes
+  * Improver Classes
 * __12pm-1pm__
   * _Century Ballroom_
-  * Master Classes
+  * Perfecter Classes
 * __2pm-5pm__
   * _Location TBD_
   * Afternoon Tea Dance with Some Band Here!
