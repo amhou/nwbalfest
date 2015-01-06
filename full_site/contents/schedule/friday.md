@@ -4,4 +4,4 @@
   * _Eastside Stomp at Aria Ballroom_
   * Check In and Registration
   * Live Music with Some Band Here!
-  * _$12 Cover_
+  * _$12 Cover for non-pass holders_

@@ -2,18 +2,17 @@
 
 * __1pm-3pm__
   * _Century Ballroom_
-  * Beginner Classes for Lindy Hoppers
+  * Beginner Intensive Classes
   * Intermediate Classes
 * __3pm-4pm__
   * _Century Ballroom_
   * Guided Practice
-  * _Open to the public, $2 cover_
+  * _$2 cover for non-pass holders_
 * __4pm-5pm__
   * _Century Ballroom_
   * Master Classes
 * __9pm-130am__
-  * _Ohm Culture_
+  * _Location TBD_
   * Live Music with Some Band Here!
-  * Jack-n-Jill Prelims at 9
-  * Jack-n-Jill Finals at 11
-  * _$20 cover_
+  * Pro-Am Jack-n-Jill at 1030pm
+  * _Door pricing for the public TBD_

@@ -2,7 +2,7 @@
 
 * __10am-12pm__
   * _Century Ballroom_
-  * Beginner Classes for Lindy Hoppers
+  * Beginner Intensive Classes
   * Intermediate Classes
 * __12pm-1pm__
   * _Century Ballroom_
