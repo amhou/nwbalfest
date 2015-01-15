@@ -7,7 +7,7 @@
 * __3pm-4pm__
   * _Century Ballroom_
   * Guided Practice
-  * _$2 cover for non-pass holders_
+  * _$2 Cover for non-pass holders_
 * __4pm-5pm__
   * _Century Ballroom_
   * Perfecter Classes
