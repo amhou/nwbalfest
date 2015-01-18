@@ -12,7 +12,7 @@
   * _Century Ballroom_
   * Perfecter Classes
 * __9pm-130am__
-  * _Location TBD_
+  * _OmCulture_
   * Live Music with Some Band Here!
   * Pro-Am Jack-n-Jill at 1030pm
   * _Door pricing for the public TBD_
