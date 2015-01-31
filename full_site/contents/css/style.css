@@ -536,6 +536,10 @@
                 font-size: 1.2em;
             }
 
+            .wrapper.style3 td {
+                padding: 1em;
+            }
+
         .wrapper.style4 {
             background: white;
         }

@@ -1,0 +1,3 @@
+<img src="/images/robin.jpg" alt="Robin" style="width:80%; border: 5px solid;"/>
+
+__Robin Nunnally__ has 18+ years of experience in the world of swing and vintage vernacular jazz dances, having taught throughout the Pacific Northwest and Western Canada. Over her many years of dancing, she has dabbled in  (and intensely studied) a number of styles and dances from the Ragtime era of the 1910s, to the more classic sock hop style of the 1950s, and everything in between. She is known for her passionate teaching, love and support of her students, and her drive to always create and better herself as a dancer and as a scene leader.

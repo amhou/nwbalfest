@@ -1,0 +1,3 @@
+<img src="/images/travis.jpg" alt="Travis, photo by Brenda Ahearn" style="width:75%; border: 5px solid;"/>
+
+__Travis Whetman__ has been teaching and performing Balboa, Lindy Hop, and Charleston in the Pacific Northwest for over 10 years. When he's not on the dance floor, you'll often find him in the DJ booth playing the best Balboa music from the Swing Era.  Travis believes in empowering dancers to find their own style and being creative so that they can have a unique presence on the dance floor.  Travis has two cats named Muggsy and Pops, likes pizzadillas (think about it), and enjoys winding down by catching reruns of Frasier.
