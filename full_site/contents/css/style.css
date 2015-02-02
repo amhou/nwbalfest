@@ -544,6 +544,10 @@
             background: white;
         }
 
+            .wrapper.style4 .flush {
+                padding: 0 .5em;
+            }
+
         .wrapper.style5 {
             background: #82b440;
             text-align: center;

@@ -51,7 +51,12 @@ html(lang='en')
         // Schedule
         div.wrapper.style4#schedule
             section.container
-                include ./schedule.jade
+                header.major
+                    h2 Schedule
+                include ./schedule_friday.jade
+                include ./schedule_saturday.jade
+                include ./schedule_sunday.jade
+                include ./venues.jade
 
         // Instructors
         div.wrapper.style3#instructors
