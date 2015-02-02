@@ -548,6 +548,13 @@
                 padding: 0 .5em;
             }
 
+            .wrapper.style4 img {
+                border-collapse: collapse;
+                margin-left: 2em;
+                border: 5px solid;
+                float: right;
+            }
+
         .wrapper.style5 {
             background: #82b440;
             text-align: center;

@@ -26,6 +26,11 @@
             margin-bottom: 1em;
         }
 
+        .wrapper.style4 img {
+            float: center;
+            margin-top: 1em;
+        }
+
         .wrapper.style5 img {
             width: 70%;
         }
