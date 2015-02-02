@@ -22,6 +22,10 @@
             padding-bottom: 5em;
         }
 
+        .wrapper.style3 img {
+            width: 100%;
+        }
+
         .wrapper.style4 p {
             margin-bottom: 1em;
         }
