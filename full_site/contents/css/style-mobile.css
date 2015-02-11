@@ -22,6 +22,10 @@
             padding-bottom: 5em;
         }
 
+            .wrapper.style2 header.major h2 {
+                font-size: 1.6em;
+            }
+
         .wrapper.style3 img {
             width: 100%;
         }
