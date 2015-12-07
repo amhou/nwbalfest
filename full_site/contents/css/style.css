@@ -540,7 +540,6 @@
         .wrapper.style3 {
             padding-bottom: 6em;
             background: #82b440;
-            text-align: center;
             color: white;
         }
 
@@ -555,6 +554,14 @@
 
             .wrapper.style3 td {
                 padding: 1em;
+            }
+
+            .wrapper.style3 img {
+                border-collapse: collapse;
+                margin-left: 2em;
+                margin-top: 3em;
+                border: 5px solid;
+                float: right;
             }
 
         .wrapper.style4 {

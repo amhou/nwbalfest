@@ -26,14 +26,14 @@ html(lang='en')
                                 a(href='#registration') Registration
                             //li
                             //    a(href='#schedule') Schedule/Venues
-                            //li
-                            //    a(href='#instructors') Instructors
-                            //li
-                            //    a(href='#music') Music
-                            //li
-                            //    a(href='#travel') Travel/Lodging
-                            //li
-                            //    a(href='#about') About
+                            li
+                                a(href='#instructors') Instructors
+                            li
+                                a(href='#music') Music
+                            li
+                                a(href='#travel') Travel/Lodging
+                            li
+                                a(href='#about') About
                             li
                                 a(href='#footer') Contact Us
 
@@ -50,7 +50,7 @@ html(lang='en')
         div.wrapper.style2#registration
             section.container
                 div.button_holder
-                    a.button(href="#") Registration date TBD
+                    a.button(href="#") Registration Opens January 3
                 include ./registration.jade
 
         // Schedule
@@ -64,24 +64,24 @@ html(lang='en')
         //        include ./venues.jade
 
         // Instructors
-        //div.wrapper.style3#instructors
-        //    section.container
-        //        include ./instructors.jade
+        div.wrapper.style3#instructors
+            section.container
+                include ./instructors.jade
 
         // Music
-        //div.wrapper.style4#music
-        //    section.container
-        //        include ./music.jade
+        div.wrapper.style4#music
+            section.container
+                include ./music.jade
 
         // Travel/Lodging
-        //div.wrapper.style2#travel
-        //    section.container
-        //        include ./travel.jade
+        div.wrapper.style2#travel
+            section.container
+                include ./travel.jade
 
         // About
-        //div.wrapper.style5#about
-        //    section#team.container
-        //        include ./about.jade
+        div.wrapper.style5#about
+            section#team.container
+                include ./about.jade
 
         // Contact Us
         div#footer

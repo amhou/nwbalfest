@@ -1,3 +1,3 @@
 ### Jennifer Lee
 
-Traveling all around the world for Balboa, you're as likely to find Dr. Jennifer Lee dancing outside of Seattle as within it. Jennifer's proudest accomplishments include winning the Grand Forks 4-H Food Fair in North Dakota, playing Yum-Yum in The Mikado, being one of the "love" test subjects for an episode of Good Morning America, and starting her own practice as an Ophthalmologist.
+Dr. Jennifer Lee once worked in a Federally-funded potato laboratory. Her skills include skiing, trampolining, and ophthalmology. Her favorite foods are boiled cabbage and 7-Up Salad. She and her dog Stalah live a happy life in Kirkland.

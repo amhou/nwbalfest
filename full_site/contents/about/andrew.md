@@ -1,3 +1,3 @@
 ### Andrew Hou
 
-A Seattle native for the past 10 years, Andrew is a dedicated Balboa dancer who also sits on the board of the Savoy Swing Club, a swing dancing non-profit organization. He loves eating noodles more than swing dancing. Andrew also loves Lego, is bad at computers, and has a car that frequently breaks down.
+(Not Dr.) Andrew Hou once grew a garden on his head. His skills include vacuuming, washing dishes, doing laundry, and raking leaves. He is bad at computers and his car frequently breaks down.
