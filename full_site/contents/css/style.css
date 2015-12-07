@@ -491,7 +491,7 @@
                 left: 0;
                 right: 0;
                 z-index: -1;
-                background: url(../images/2016_background.png) no-repeat;
+                background: url(../images/2016_background.jpg) no-repeat;
                 background-size: cover;
                 opacity:0.6;
             }
