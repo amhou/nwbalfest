@@ -2,7 +2,7 @@ doctype html
 html(lang='en')
     head
         meta(charset='utf-8')
-        meta(name='description' content="Balboa dancing in the Pacific Northwest! Join us May 13-15, 2016 in Seattle for dancing, classes, and one of the best dance communities in the world.")
+        meta(name='description' content="Balboa dancing in the Pacific Northwest! Join us May 19-21, 2017 in Seattle for dancing, classes, and one of the best dance communities in the world.")
         title= locals.title
         link(rel='icon', type='image/png', href='/images/icon.png')
         script(type='text/javascript', src='/js/jquery.min.js')
@@ -24,10 +24,10 @@ html(lang='en')
                                 a(href='index.html') Home
                             li
                                 a(href='#registration') Registration
-                            li
-                                a(href='#schedule') Schedule/Venues
-                            li
-                                a(href='#instructors') Instructors
+                            //li
+                            //    a(href='#schedule') Schedule/Venues
+                            //li
+                            //    a(href='#instructors') Instructors
                             li
                                 a(href='#music') Music
                             li
@@ -40,31 +40,27 @@ html(lang='en')
             // Banner
             div#banner
                 section.container
-                    img(src='/images/2016_logo.png', width='80%')
-                    span
-                        b Seattle, WA
-                    p
-                        b May 13-15, 2016
+                    img(src='/images/2017_logo.png', width='60%')
 
         // Registration
         div.wrapper.style2#registration
             section.container
                 div.button_holder
-                    a.button(href="http://www.eventbrite.com/e/northwest-balboa-festival-2016-registration-20353094654") SOLD OUT!
+                    a.button(href="#registration") Registration Opens January 25!
                 include ./registration.jade
 
         // Schedule
-        div.wrapper.style4#schedule
-            section.container
-                header.major
-                    h2 Schedule
-                include ./schedule.jade
-                include ./venues.jade
+        //div.wrapper.style4#schedule
+        //    section.container
+        //        header.major
+        //            h2 Schedule
+        //        include ./schedule.jade
+        //        include ./venues.jade
 
         // Instructors
-        div.wrapper.style3#instructors
-            section.container
-                include ./instructors.jade
+        //div.wrapper.style3#instructors
+        //    section.container
+        //        include ./instructors.jade
 
         // Music
         div.wrapper.style4#music

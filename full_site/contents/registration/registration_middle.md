@@ -1,3 +1,3 @@
 ### Absolute Beginners Pass
-* __Regular__ - $65 (*Until March 1*)
-* __Late Registration__ - $75
+* __Regular__ - $75 ( *Until March 15* )
+* __Late Registration__ - $85

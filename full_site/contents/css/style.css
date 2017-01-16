@@ -35,7 +35,7 @@
     }
 
     a {
-        color: #82b440;
+        color: #db7d0b;
         text-decoration: underline;
     }
 
@@ -90,13 +90,13 @@
     }
 
     hr {
-        border-top: solid 1px #82b440;
+        border-top: solid 1px #db7d0b;
         border: 0;
         margin-bottom: 1.5em;
     }
 
     blockquote {
-        border-left: solid 0.5em #82b440;
+        border-left: solid 0.5em #db7d0b;
         font-style: italic;
         padding: 1em 0 1em 2em;
     }
@@ -143,7 +143,7 @@
         -ms-appearance: none;
         appearance: none;
         background: none;
-        border: solid 1px #82b440;
+        border: solid 1px #db7d0b;
         color: inherit;
         display: block;
         outline: 0;
@@ -156,7 +156,7 @@
         input[type="password"]:focus,
         input[type="email"]:focus,
         textarea:focus {
-            border-color: #82b440;
+            border-color: #db7d0b;
         }
 
     input[type="text"],
@@ -361,7 +361,7 @@
             display: inline-block;
             padding-right: 1em;
             font-size: 1.4em;
-            color: #82b440;
+            color: #db7d0b;
         }
 
         ul.special-icons p {
@@ -379,7 +379,7 @@
         }
 
             table.default tbody tr {
-                border-bottom: solid 1px #82b440;
+                border-bottom: solid 1px #db7d0b;
             }
 
             table.default td {
@@ -418,8 +418,8 @@
         background: none;
         border-radius: none;
         border: 2px solid;
-        border-color: #82b440;
-        color: #82b440;
+        border-color: #db7d0b;
+        color: #db7d0b;
         cursor: pointer;
         display: inline-block;
         padding: 0.90em 1.2em;
@@ -439,7 +439,7 @@
         input[type="reset"]:hover,
         input[type="button"]:hover,
         .button:hover {
-            background: #82b440;
+            background: #db7d0b;
             color: white;
         }
 
@@ -456,7 +456,7 @@
             input[type="button"].alt:hover,
             .button.alt:hover {
                 background: white;
-                color: #82b440;
+                color: #db7d0b;
             }
 
         input[type="submit"].fit,
@@ -491,9 +491,9 @@
                 left: 0;
                 right: 0;
                 z-index: -1;
-                background: url(../images/2016_background.jpg) no-repeat;
+                background: url(../images/2017_background.jpg) no-repeat;
                 background-size: cover;
-                opacity:0.6;
+                opacity:0.65;
             }
 
         .wrapper.style2 {
@@ -539,7 +539,7 @@
 
         .wrapper.style3 {
             padding-bottom: 6em;
-            background: #82b440;
+            background: #db7d0b;
             color: white;
         }
 
@@ -584,7 +584,7 @@
             }
 
         .wrapper.style5 {
-            background: #82b440;
+            background: #db7d0b;
             text-align: center;
             color: white;
         }
@@ -733,7 +733,7 @@
         #banner h2 {
             display: inline-block;
             padding: 0.50em 0.30em;
-            background: #82b440;
+            background: #db7d0b;
             font-size: 3em;
             font-weight: 400;
         }
