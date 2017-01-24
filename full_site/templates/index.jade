@@ -25,10 +25,10 @@ html(lang='en')
                                 a(href='index.html') Home
                             li
                                 a(href='#registration') Registration
-                            //li
-                            //    a(href='#schedule') Schedule/Venues
-                            //li
-                            //    a(href='#instructors') Instructors
+                            li
+                                a(href='#schedule') Schedule
+                            li
+                                a(href='#instructors') Instructors
                             li
                                 a(href='#music') Music
                             li
@@ -51,17 +51,17 @@ html(lang='en')
                 include ./registration.jade
 
         // Schedule
-        //div.wrapper.style4#schedule
-        //    section.container
-        //        header.major
-        //            h2 Schedule
-        //        include ./schedule.jade
-        //        include ./venues.jade
+        div.wrapper.style4#schedule
+            section.container
+                header.major
+                    h2 Schedule
+                include ./schedule.jade
+        //         include ./venues.jade
 
         // Instructors
-        //div.wrapper.style3#instructors
-        //    section.container
-        //        include ./instructors.jade
+        div.wrapper.style3#instructors
+            section.container
+                include ./instructors.jade
 
         // Music
         div.wrapper.style4#music
