@@ -54,3 +54,10 @@
     #main #sidebar .major h2 {
         font-size: 1.6em;
     }
+
+    .music {
+      display: flex;
+      flex-direction: column;
+      align-items: flex-start;
+      margin-bottom: 1em;
+    }

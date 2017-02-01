@@ -842,6 +842,13 @@
         font-weight: 400;
     }
 
+    .music {
+      display: flex;
+      flex-direction: row-reverse;
+      align-items: flex-start;
+      margin-bottom: 1em;
+    }
+
 /* Team */
 
     #team h3 {
