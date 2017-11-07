@@ -2,7 +2,7 @@ doctype html
 html(lang='en')
     head
         meta(charset='utf-8')
-        meta(name='description' content="Balboa dancing in the Pacific Northwest! Join us May 19-21, 2017 in Seattle for dancing, classes, and one of the best dance communities in the world.")
+        meta(name='description' content="Balboa dancing in the Pacific Northwest! Join us May 4-6, 2018 in Seattle for dancing, classes, and one of the best dance communities in the world.")
         meta(property='og:image' content='/images/2017_fb_og.png')
         title= locals.title
         link(rel='icon', type='image/png', href='/images/icon.png')
@@ -23,60 +23,60 @@ html(lang='en')
                         ul
                             li
                                 a(href='index.html') Home
-                            li
-                                a(href='#registration') Registration
-                            li
-                                a(href='#schedule') Schedule
-                            li
-                                a(href='#instructors') Instructors
-                            li
-                                a(href='#music') Music
-                            li
-                                a(href='#travel') Travel/Lodging
-                            li
-                                a(href='#about') About
+                            //li
+                            //    a(href='#registration') Registration
+                            //li
+                            //    a(href='#schedule') Schedule
+                            //li
+                            //    a(href='#instructors') Instructors
+                            //li
+                            //    a(href='#music') Music
+                            //li
+                            //    a(href='#travel') Travel/Lodging
+                            //li
+                            //    a(href='#about') About
                             li
                                 a(href='#footer') Contact Us
 
             // Banner
             div#banner
                 section.container
-                    img(src='/images/2017_logo.png', width='60%')
+                    img(src='/images/2018_logo.png', width='60%')
 
         // Registration
         div.wrapper.style2#registration
             section.container
                 div.button_holder
-                    a.button(href="https://www.eventbrite.com/e/northwest-balboa-festival-2017-tickets-31365531148") Registration is open!
+                    a.button(href="#") Registration opens January 15!
                 include ./registration.jade
 
-        // Schedule
-        div.wrapper.style4#schedule
-            section.container
-                header.major
-                    h2 Schedule
-                include ./schedule.jade
-                include ./venues.jade
+        //// Schedule
+        //div.wrapper.style4#schedule
+        //    section.container
+        //        header.major
+        //            h2 Schedule
+        //        include ./schedule.jade
+        //        include ./venues.jade
 
-        // Instructors
-        div.wrapper.style3#instructors
-            section.container
-                include ./instructors.jade
+        //// Instructors
+        //div.wrapper.style3#instructors
+        //    section.container
+        //        include ./instructors.jade
 
-        // Music
-        div.wrapper.style4#music
-            section.container
-                include ./music.jade
+        //// Music
+        //div.wrapper.style4#music
+        //    section.container
+        //        include ./music.jade
 
-        // Travel/Lodging
-        div.wrapper.style2#travel
-            section.container
-                include ./travel.jade
+        //// Travel/Lodging
+        //div.wrapper.style2#travel
+        //    section.container
+        //        include ./travel.jade
 
-        // About
-        div.wrapper.style5#about
-            section#team.container
-                include ./about.jade
+        //// About
+        //div.wrapper.style5#about
+        //    section#team.container
+        //        include ./about.jade
 
         // Contact Us
         div#footer
