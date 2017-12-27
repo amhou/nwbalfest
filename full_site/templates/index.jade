@@ -23,16 +23,16 @@ html(lang='en')
                         ul
                             li
                                 a(href='index.html') Home
-                            //li
-                            //    a(href='#registration') Registration
-                            //li
-                            //    a(href='#schedule') Schedule
-                            //li
-                            //    a(href='#instructors') Instructors
+                            li
+                                a(href='#registration') Registration
+                            li
+                                a(href='#schedule') Schedule
+                            li
+                                a(href='#instructors') Instructors
                             //li
                             //    a(href='#music') Music
-                            //li
-                            //    a(href='#travel') Travel/Lodging
+                            li
+                                a(href='#travel') Travel/Lodging
                             //li
                             //    a(href='#about') About
                             li
@@ -50,28 +50,28 @@ html(lang='en')
                     a.button(href="#") Registration opens January 15!
                 include ./registration.jade
 
-        //// Schedule
-        //div.wrapper.style4#schedule
-        //    section.container
-        //        header.major
-        //            h2 Schedule
-        //        include ./schedule.jade
-        //        include ./venues.jade
+        // Schedule
+        div.wrapper.style4#schedule
+            section.container
+                header.major
+                    h2 Schedule
+                include ./schedule.jade
+                // include ./venues.jade
 
-        //// Instructors
-        //div.wrapper.style3#instructors
-        //    section.container
-        //        include ./instructors.jade
+        // Instructors
+        div.wrapper.style3#instructors
+            section.container
+                include ./instructors.jade
 
         //// Music
         //div.wrapper.style4#music
         //    section.container
         //        include ./music.jade
 
-        //// Travel/Lodging
-        //div.wrapper.style2#travel
-        //    section.container
-        //        include ./travel.jade
+        // Travel/Lodging
+        div.wrapper.style2#travel
+            section.container
+                include ./travel.jade
 
         //// About
         //div.wrapper.style5#about

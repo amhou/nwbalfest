@@ -1,3 +1,3 @@
 The __Northwest Balboa Festival__ is back for its fourth year! We need YOU to come and make 2018 better than ever! With another year of fantastic music, dancing, practices, and afternoon socials, we're excited to give you everything you love about Balboa, perhaps with a surprise or two along the way. This year's Northwest Balboa Festival will bring the best of what the Pacific Northwest's dance community has to offer. 
 
-Save the date, we've got more info coming soon!
+Since its start, Northwest Balboa Festival has been about building community and making everyone feel welcome. This has been the underlying driver for every decision we make. We didn’t set out to create the largest event possible, nor did we set out to provide the most class time ever. Instead, we’ve sought to provide a warm environment that encourages meeting new people and growing our regional dance scene in the beautiful Pacific Northwest.
