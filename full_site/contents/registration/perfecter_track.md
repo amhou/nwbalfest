@@ -1,3 +1,3 @@
 * __Perfecter__
-* Dancers in this track should be extremely comfortable with Balboa and Bal-Swing, with a strong interest in perfecting technique, musicality, and aesthetics. In the spirit of community, dancers in this track are elected to serve as Pros in the Pro-Am Competition unless otherwise requested.
-* _Dancers interested in the Perfecters track should inquire during registration._
+* This is the track for those who are in a committed long-term relationship with Balboa. You're easy to connect with on the dance floor, and can likely both lead and follow. Some might describe your Pure Bal as "dreamy". You've probably competed at a couple different events, and may have even taught locally. Dancers in this track should be extremely comfortable with Balboa and Bal-Swing, with a strong interest in perfecting technique, musicality, and aesthetics.
+* _Dancers interested in the Perfecters track should register for Improver and inquire further during registration. Perfecter track students are welcome to take classes in other tracks as long as it does not upset class balance._

@@ -1,2 +1,2 @@
 * __Learner__
-* For those somewhat new to Balboa, and would like to review and refine their technique. This track is appriopriate for those with other dance experience, especially Lindy Hop.
+* For those who are getting more comfortable with Balboa, but would like to review and refine their technique. You may already know how to out-and-in and swivel, but sometimes need some help nailing the moves. You're probably confortable with a couple different stylings, but would like to learn how to add your own personal flavor. This track is appriopriate for those with significant other dance experience, especially Lindy Hop.

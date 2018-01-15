@@ -1,3 +1,3 @@
-* __Absolute Beginners__
-* If you're someone who wants to be introduced into the wonderful world of Balboa for the first time, this is the track for you! We'll teach you the absolute basics, starting with your first step-step-hold-step.
-* _The Absolute Beginner track is priced to encourage new dancers to discover Balboa as their first dance. To create the best learning environment, this track is limited to 8 leaders and 8 followers. Class venue will be emailed directly to students._
+* __Beginners__
+* This track is for the aspiring Balboa dancer! If you're just getting familiar with your step-step-hold-steps, or you've just put on some dance shoes for the very first time, this is the track for you. We'll start with the absolute basics, and move quickly to get you shuffling your way across the floor. If you've already danced a little bit of Balboa but are still feeling a bit uneasy about dancing socially, come to this track and brush up on your fundamentals! We'll get you lolly-kicking like a pro.
+* _The Beginner track is priced to encourage new and continuing dancers to enter the world of Balboa. To create the best learning environment, this track is limited to 10 leaders and 10 followers._

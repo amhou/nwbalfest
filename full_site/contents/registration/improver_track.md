@@ -1,2 +1,2 @@
 * __Improver__
-* This track is geared for dancers who are comfortable with Balboa and Bal-Swing. Classes will emphasize on refining technique, adding moves, playing with rhythm, and exploring musicality.
+* This track is geared for dancers who are very comfortable with Balboa and Bal-Swing. You may be "that person that dances Balboa" in your local community. You can probably name a couple of the Old Timer Balboa dancers, do a Maxie Slide, and may have even traveled to an event just for Balboa. Classes will emphasize on refining technique, adding moves, playing with rhythm, and exploring musicality.
